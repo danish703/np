@@ -1,0 +1,2 @@
+144.250.77.164 unkonwn - [17/jun/2021:22:53:58 -500] "GET /bgs/greenbg.gif HTTP 1.0" 200 50
+121.220.72.124 unkonwn - [17/jun/2021:22:59:58 -500] "GET /bgs/abc.gif HTTP 1.0" 200 50
